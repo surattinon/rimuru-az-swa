@@ -1,0 +1,21 @@
+{
+  "name": "Azure Terraform Environment",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "hashicorp.terraform",
+                "github.vscode-pull-request-github",
+                "ms-vscode.vscode-node-azure-pack",
+                "vscodevim.vim"
+            ],
+            "settings": {
+                "terminal.integrated.defaultProfile.linux": "zsh",
+                "editor.lineNumbers": "relative"
+            }
+        }
+    },
+    "features": {
+      "ghcr.io/devcontainers/features/terraform:1": {},
+      "ghcr.io/devcontainers/features/azure-cli:1": {}
+    }
+}
