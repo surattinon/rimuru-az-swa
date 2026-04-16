@@ -9,6 +9,10 @@
       "version": "latest",
       "tflint": "latest",
       "terragrunt": "none"
+    },
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "lts",
+      "pnpmVersion": "latest"
     }
   },
   "customizations": {
