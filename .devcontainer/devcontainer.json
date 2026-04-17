@@ -21,7 +21,7 @@
         "ms-vscode.azurecli",
         "hashicorp.terraform",
         "ms-azuretools.vscode-azureterraform",
-        "vscodevim.vim",
+        "asvetliakov.vscode-neovim",
         "Vue.volar"
       ],
       "settings": {
